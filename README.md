@@ -1,6 +1,8 @@
-# ruby-sample
+# iOS-APNProfile-Putter
 
-This is a based Ruby app using the [ruby-sample](https://github.com/heroku/ruby-sample) on Heroku.
+This is a based Ruby app using the [ruby-sample](https://github.com/heroku/ruby-sample) on Heroku.  
+This is a part of [APN Profile Generator](https://watarusuzuki.github.io/APNProfileGenerator/) on Safari.  
+Because Safari does not support download attribute.
 
 ## Deploying to Heroku
 
