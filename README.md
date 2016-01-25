@@ -1,19 +1,6 @@
 # ruby-sample
 
-This is a barebones Ruby app using the [Sinatra](http://www.sinatrarb.com) framework.
-
-## Running Locally
-
-Make sure you have [Ruby](https://www.ruby-lang.org), [Bundler](http://bundler.io) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
-
-```sh
-git clone git@github.com:heroku/ruby-sample.git # or clone your own fork
-cd ruby-sample
-bundle
-heroku local
-```
-
-Your app should now be running on [localhost:5000](http://localhost:5000/).
+This is a based Ruby app using the [ruby-sample](https://github.com/heroku/ruby-sample) on Heroku.
 
 ## Deploying to Heroku
 
